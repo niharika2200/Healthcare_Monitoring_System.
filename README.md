@@ -1,5 +1,4 @@
 # Healthcare_Monitoring_System.
-# Healthcare_Monitoring_System.
 # 🏥 IoT-Based Smart Healthcare Monitoring System
 
 An end-to-end IoT solution to monitor vital health parameters—such as heart rate, SpO₂, room temperature, body temperature, and humidity—in real-time using ESP32, sensors, and a responsive web dashboard.
